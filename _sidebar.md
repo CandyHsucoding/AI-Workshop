@@ -1,14 +1,10 @@
 * **課程導覽**
   * [🏠 工作坊首頁](README.md)
 
-* **🎨 視覺文宣篇**
-  * [Q 版角色生圖](README.md#1-生成專屬-q-版東方營養師)
-  * [安妮亞風格](README.md#2-融入人氣動漫風格-安妮亞風格)
-  * [快速改圖技巧](README.md#3-圖片微調與改圖-上傳照片後使用)
+* **🌈 多巴胺實戰篇**
+  * [🎨 第1站：Gemini 創意繪圖](gemini_creative.md)
+  * [🚀 第2站：專家 Gems 共享](gemini_gems.md)
+  * [📚 第3站：NotebookLM 智慧辦公](notebooklm_admin.md)
 
-* **🚀 專家工具篇**
-  * [Gems 共享連結](README.md#🚀-第二站營養師專屬-gems-共享)
-
-* **📚 行政效率篇**
-  * [NotebookLM 簡報](README.md#1-快速生成簡報大綱)
-  * [資訊圖表設計](README.md#2-資訊圖表-infographic-構思)
+* **💡 其他資訊**
+  * [實戰小叮嚀](README.md#💡-營養師實戰小叮嚀)
