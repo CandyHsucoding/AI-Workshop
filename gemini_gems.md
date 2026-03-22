@@ -13,5 +13,5 @@
 ### 🎨 雄愛School Lunch 好食育 - 專屬配圖助手
 生圖專用小專家 
 只要輸入關鍵字，就能秒出宣導圖。
-* [👉 點此開啟專家模式](#) *(  https://gemini.google.com/gem/1Vv30XUacU9nBcTBTWQvgwNpIv5w8ri4j?usp=sharing)*
+* [👉 點此開啟專家模式](#) *(  https://gemini.google.com/gem/503de23ca602?usp=sharing)*
 </div>
