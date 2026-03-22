@@ -15,3 +15,19 @@
 只要輸入關鍵字，就能秒出宣導圖。
 * [👉 點此開啟專家模式](#) *(  https://gemini.google.com/gem/503de23ca602?usp=sharing)*
 </div>
+
+<div class="dopamine-card color-green">
+
+### 🎨 「AI 生圖快狠準」Gem
+專生可愛圖專大師
+只要輸入關鍵字，就能秒出宣導圖。
+* [👉 點此開啟專家模式](#) *(  https://gemini.google.com/gem/14E3km6Iru0NBcWK-vFjVtIxAgX8Q2Nk0?usp=sharing)*
+</div>
+
+<div class="dopamine-card color-pink">
+
+### 🎨 「雄愛營養多風格漫畫生圖高手」Gem
+多格漫畫圖、多風格生圖王 
+只要輸入關鍵字，就能秒出宣導圖。
+* [👉 點此開啟專家模式](#) *(  https://gemini.google.com/gem/11odLNfTyfxG8dQbeJpU-eKNJffPRUBf0?usp=sharing)*
+</div>
